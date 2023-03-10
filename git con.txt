@@ -1,4 +1,4 @@
-git 유저 설정 (git프로그램 설치 하고 나서 한번만)
+**git 유저 설정 (git프로그램 설치 하고 나서 한번만)
 git config--global user.name "Jeong woo jin"
 git config--global user.email wjddnwls@ewhain.net
 
